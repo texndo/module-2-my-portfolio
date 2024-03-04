@@ -17,4 +17,12 @@ This is my portfolio page design for an aspiring front-end web developer. This p
 
 ## Design Showcase
 
+<img width="1430" alt="portfolio home page" src="https://github.com/texndo/module-2-my-portfolio/assets/151543445/6193e120-925e-46db-a40f-0b795ff89d11">
+
+## License
+
+This project is licensed under the MIT License.
+
+
+
 
