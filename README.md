@@ -23,6 +23,8 @@ This is my portfolio page design for an aspiring front-end web developer. This p
 
 This project is licensed under the MIT License.
 
+## DISCLAIMER 
 
+A YouTube tutorial was followed to achieve this design, I altered and fixed the code to meet the acceptnace criteria of my assignment and input my own projects (ideal project ideas) etc. 
 
 
